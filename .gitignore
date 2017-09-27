@@ -1,0 +1,10 @@
+/gradle/*
+/.idea/*
+/.gradle/*
+/build/*
+/out/*
+/downloader.iml
+/gradlew
+/gradlew.bat
+/settings.gradle
+
